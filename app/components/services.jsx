@@ -2,7 +2,7 @@
 
 const Services = () => {
   return (
-<div className="flex flex-col items-center justify-center">
+<div className="flex flex-col items-center justify-center" id="services">
     <h2 className="text-3xl font-bold text-white mb-4">Services</h2>
     <div className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
     <div className="grid sm:grid-cols-2 lg:grid-cols-3 items-center gap-6">
